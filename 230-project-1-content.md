@@ -5,4 +5,20 @@
 We've all been told not to mess around with magnets near computers, or we'll cause problems. 
 But what about messing around with magnets *in* computers to solve problems?
 In this twist on classic 'Rush hour' games, you must solve challenging puzzles 
-without ever directly interacting with the puzzle pieces.
+without ever directly interacting with the puzzle pieces. To solve the puzzle, you can only alternate 
+between positive and negative electrical fields on each border of the game board.
+
+## Proposal
+
+I plan to make a casual puzzle game that builds off of the ideas presented in games like 'Rush Hour' or 'Gridlock'; 
+shifting axis locked blocks to clear a path and free another piece from the game board.
+The main change from other games of similar nature is that the only direct control the player will have 
+over the game board will be that they can alter the states of magnetic fields on each side of the board, 
+switching between off, positive, and negative states to pull or repell pieces with certain magnetic poles.
+The game is a bit more abstract than its predicessors, lacking much of a grounding in reality besides basic scientific 
+principles. It is unlikely that the game will be mobile friendly, due to the number of pieces that may be on the 
+screen making the game harder to view on smaller devices. 
+
+## Documentation 
+
+*Will require a color scheme change from my original designs
