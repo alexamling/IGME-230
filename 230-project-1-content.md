@@ -15,10 +15,17 @@ shifting axis locked blocks to clear a path and free another piece from the game
 The main change from other games of similar nature is that the only direct control the player will have 
 over the game board will be that they can alter the states of magnetic fields on each side of the board, 
 switching between off, positive, and negative states to pull or repell pieces with certain magnetic poles.
+
 The game is a bit more abstract than its predicessors, lacking much of a grounding in reality besides basic scientific 
-principles. It is unlikely that the game will be mobile friendly, due to the number of pieces that may be on the 
+principles. Due to this slight attachemnet to science, I plan to keep the aesthetics simple, but possibly resembling 
+a science experiment of sorts, almost like it would belong in a laboratory. The atmosphere of the game will aim to be 
+playful but relaxed, to encourage patience and calculated thought. The game is meant to be more of a mind exercise and 
+thought puzzle, rather than a frustrating challenge or race against time. 
+
+It is unlikely that the game will be 
+mobile friendly and remain focused on dessktop use, due to the number of pieces that may be on the 
 screen making the game harder to view on smaller devices. 
 
 ## Documentation 
 
-*Will require a color scheme change from my original designs
+- Will require a color scheme change from my original designs
