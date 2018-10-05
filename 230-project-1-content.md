@@ -18,13 +18,22 @@ switching between off, positive, and negative states to pull or repell pieces wi
 
 The game is a bit more abstract than its predicessors, lacking much of a grounding in reality besides basic scientific 
 principles. Due to this slight attachemnet to science, I plan to keep the aesthetics simple, but possibly resembling 
-a science experiment of sorts, almost like it would belong in a laboratory. The atmosphere of the game will aim to be 
-playful but relaxed, to encourage patience and calculated thought. The game is meant to be more of a mind exercise and 
-thought puzzle, rather than a frustrating challenge or race against time. 
+a science experiment of sorts, almost like it would belong in a laboratory. The music, sound effects, and overall 
+atmosphere of the game will aim to be playful but relaxed, to encourage patience and calculated thought. The game 
+is meant to be more of a mind exercise and thought puzzle, rather than a frustrating challenge or race against time. 
 
-It is unlikely that the game will be 
-mobile friendly and remain focused on dessktop use, due to the number of pieces that may be on the 
-screen making the game harder to view on smaller devices. 
+Controlls will be simple, mouse clicks to change the states of magnetic fields, and in line with the target atmosphere 
+of the game, this will be introduced alongside a simple explanation of magnetic fields. The player will have a single 
+switch and a single block and can observe how the magnetic field pushes or pulls depending on its state. The player 
+will then be presented with a single field and two blocks that have alternating poles, to show how they will have opposite 
+reactions to each magnetic field. From here the game will continue to intoduce several other concepts such as blocks being 
+stopped by other blocks, and the effect that multiple magnetic fields can have.
+
+Several options for additional content could be blocks that have a powerful enough magnetic field of their own to shift other blocks, 
+blocks that spin instead of shifting, or magnetic fields with a limited number of "charges".
+
+It is unlikely that the game will be mobile friendly and will remain focused on desktop use, 
+due to the possiblity that the number of pieces on the screen may make the game harder to view on smaller devices. 
 
 ## Documentation 
 
