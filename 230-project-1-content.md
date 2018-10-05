@@ -18,8 +18,8 @@ switching between off, positive, and negative states to pull or repell pieces wi
 
 The game is a bit more abstract than its predicessors, lacking much of a grounding in reality besides basic scientific 
 principles. Due to this slight attachemnet to science, I plan to keep the aesthetics simple, but possibly resembling 
-a science experiment of sorts, almost like it would belong in a laboratory. The music, sound effects, and overall 
-atmosphere of the game will aim to be playful but relaxed, to encourage patience and calculated thought. The game 
+a science experiment of sorts, almost like it would belong in a laboratory or a workshop. The music, sound effects, and overall 
+atmosphere of the game will aim to be playful but relaxed, to encourage patience, experimentation, and calculated thought. The game 
 is meant to be more of a mind exercise and thought puzzle, rather than a frustrating challenge or race against time. 
 
 Controlls will be simple, mouse clicks to change the states of magnetic fields, and in line with the target atmosphere 
@@ -38,3 +38,5 @@ due to the possiblity that the number of pieces on the screen may make the game 
 ## Documentation 
 
 - Will require a color scheme change from my original designs
+- Header decorations, paragraph decorations, background, and concept images were made by me in photoshop
+- Rush Hour image sourced from thinkfun.com, the seller of Rush Hour: https://www.thinkfun.com/products/rush-hour/
